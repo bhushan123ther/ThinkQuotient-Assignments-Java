@@ -1,2 +1,2 @@
-# ThinkQuotient_Java_Assignments
+# ThinkQuotient-Assignments-Java
 All Think Quotient Java Assignments are available here
